@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KTFirst</string>
+    <string name="title"><![CDATA[Shake & Roll]]></string>
+    <string name="hint">Shake your phone to roll a dice!</string>
+    <string name="replay">Replay</string>
+    <string name="cancel">Cancel</string>
+    <string name="won">You Won!</string>
+</resources>
